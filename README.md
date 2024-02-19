@@ -40,3 +40,11 @@ Searchparam reference: https://reactrouter.com/en/main/hooks/use-search-params
 sir code reference: https://bitbucket.org/namastedev/my-youtube/src/master/
 
 Incase, if you feel issue with CORS, kindly check with Chrome CORS plugin, enable it and test in chrome browser.
+
+![alt text](screenshots/1-landing-page.png)
+
+![alt text](screenshots/2-live-chat.png)
+
+![alt text](screenshots/3-comments.png)
+
+![alt text](screenshots/4-suggestions.png)
